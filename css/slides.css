@@ -1940,7 +1940,7 @@ html.mobile .showForMobileInline {
   opacity: 1;
 }
 .panel .sections .menu.uppercase li {
-  font-size: 12px;
+  font-size: 20px;
   margin: 0 10px;
   letter-spacing: 0.125em;
   font-weight: 600 !important;
